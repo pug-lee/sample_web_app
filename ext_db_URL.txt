@@ -1,0 +1,1 @@
+postgresql://techup4_lhc_sample_blog_user:rmHD1ohjcjXTDowBYENXhnZXP3RvTOpH@dpg-d0dh1b3uibrs73crb3n0-a.singapore-postgres.render.com/techup4_lhc_sample_blog
